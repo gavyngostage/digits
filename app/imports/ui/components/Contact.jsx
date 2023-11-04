@@ -25,6 +25,7 @@ Contact.propTypes = {
     image: PropTypes.string,
     description: PropTypes.string,
     _id: PropTypes.string,
+    //_id
   }).isRequired,
 };
 
