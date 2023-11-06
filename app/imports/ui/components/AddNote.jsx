@@ -7,7 +7,7 @@ import SimpleSchema from 'simpl-schema';
 import PropTypes from 'prop-types';
 import { Notes } from '../../api/note/Notes';
 
-// Create a schema to specify the structure of the data to appear in the form.
+// Create a schema to specify the structure of the data to appear in the form. scoopity woop
 const formSchema = new SimpleSchema({
   note: String,
   owner: String,
